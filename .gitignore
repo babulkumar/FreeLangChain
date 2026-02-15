@@ -1,2 +1,5 @@
 .env
 .venv
+*.toml
+.python-version
+main.py
