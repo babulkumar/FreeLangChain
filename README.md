@@ -1,2 +1,4 @@
 <h2> Author: Babul</h2><br>
-<h3>This project will be used to access Generative AI LLMs that can be accessed using free APIs.</h3>
+<h3>This project will be used to access Generative AI LLMs that can be accessed using free APIs.</h3><br>
+<h3>Installed package manager UV , but this s/w was unable to install the required packages</h3><br>
+<h3>Hence used PIP </h3><br>
