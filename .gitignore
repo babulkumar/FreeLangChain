@@ -3,3 +3,4 @@
 *.toml
 .python-version
 main.py
+*.lock
